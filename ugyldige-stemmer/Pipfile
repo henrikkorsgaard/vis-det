@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 pandas = "*"
 chardet = "*"
+pdvega = "*"
+matplotlib = "*"
+openpyxl = "*"
 
 [dev-packages]
 

@@ -1,0 +1,1357 @@
+navn,nummer,dagi_id
+1. Østerbro,1,707732
+1. Nord,2,711932
+1. Syd,3,704936
+1. Vest,5,706160
+1. Nordvest,6,710802
+2. Sundbyvester,7,711204
+2. Nord,8,706166
+2. Syd,9,706562
+2. Vest,10,712286
+3. Indre By,11,711926
+3. Nord,12,709378
+3. Syd,13,704846
+3. Øst,14,707672
+4. Sundbyøster,16,707726
+4. Nord,17,704930
+4. Syd,18,706154
+4. Øst,19,701580
+5. Nørrebro,20,706196
+5. Nord,21,706184
+5. Syd,22,703386
+5. Øst,23,704962
+5. Vest,24,710832
+5. Nordvest,25,704956
+6. Bispebjerg,27,707738
+6. Nord,28,701606
+6. Øst,29,706172
+6. Syd,30,710808
+7. Brønshøj,31,704944
+7. Nord,32,710820
+7. Rødkilde,33,701626
+7. Øst,34,706178
+7. Vest,35,711946
+7. Nordvest,36,707744
+7. Katrinedal,39,704950
+7. Kirkebjerg,40,703374
+7. Vanløse,41,710814
+8. Valby,42,707648
+8. Nord,43,709306
+8. Syd,44,704776
+8. Vest,46,711890
+8. Sydøst,47,701520
+8. Midt,48,704784
+9. Vesterbro,49,709384
+9. Nord,50,701612
+9. Syd,51,706112
+9. Øst,52,709330
+9. Vest,53,709338
+9. Midt,54,704918
+9. Sydhavn,55,706120
+1. Øst,56,725338
+2. Øst,57,725346
+5. Nørrebrohallen,58,725352
+6. Vest,59,725358
+"10. Kreds, Søerne",1,701758
+"10. Kreds, Grundtvigsvej",2,705122
+"10. Kreds, Bülowsvej",3,709590
+"10. Kreds, Duevej",4,711030
+"11. Kreds, Lindevang",5,709552
+"11. Kreds, Søndermark",6,703490
+"11. Kreds, Rådhuset",7,701726
+"11. Kreds, Nyelandsvej",8,710972
+Tapeten,1,701002
+Baltorpskolen - Rugvænget,2,706986
+Skovvejens Skole - Vest,3,710146
+Grantoftehallen,4,710158
+Idrætshallen,5,705652
+Skovlunde Skole - Lundebjerg,6,704024
+Måløv Ny Hal,8,706992
+Egebjerghallen,9,710152
+Østerhøjhallen,10,710164
+Brøndbyvester Skole,1,707090
+Tjørnehøjhallen,2,707084
+Lindelundshallen,3,708674
+Nørregård,4,702442
+Kulturhuset Brønden,5,702448
+Dragør Skole,1,706596
+Hollænderhallen,4,701922
+Jægersborg,1,707338
+Munkegård,2,704436
+Rådhuset,3,702884
+Bakkegård,4,702878
+Dyssegård,5,711716
+Maglegård,6,702890
+Hellerup,7,701254
+Ordrup,8,702872
+Skovshoved,9,704424
+Skovgård,10,708814
+Bagsværd,1,708600
+Hovedbiblioteket,2,711428
+Egegård,3,702286
+Grønnemose,4,710060
+Mørkhøj,5,700958
+Stengård,6,700934
+Søborg,7,706974
+Vadgård,8,708592
+Værebro,9,706944
+Nordvanghallen,1,702064
+Aktivitetscentret Sydvestvej,2,708406
+Sondervanghallen,3,708412
+"Glostrup Skole, Vestervang",4,700820
+Ejbyhallen,5,711278
+Hvissingehallen,6,700826
+Herlev Medborgerhus,1,705798
+Herlev Hallerne,2,710346
+Kildegårdhallen,3,701152
+Herstedøster Skole,1,704718
+Egelundskolen,2,709136
+Herstedlund Skole,3,710708
+Kongsholmcenteret,4,709130
+Herstedvester Skole,5,706090
+Holmegårdshallen,1,703836
+Præstemoseskolen,2,709882
+Sønderkærskolen,3,702088
+Kometen,4,706734
+Dansborghallen,5,702094
+Frihedens Idrætscenter,6,702070
+Avedøre Skole,7,702080
+Avedøre Idrætscenter,8,706740
+Ole Rømer-Skolen,1,701852
+Parkskolen,2,701958
+Taastrup Kulturcenter,4,703720
+Rådhuset,6,707896
+Hallen ved Rønnevangsstrøget,7,706412
+Torstorp Skole,8,703634
+Sengeløse,9,701952
+Charlotteskolen,10,701970
+Fløng Hallen,12,709780
+Reerslev Skole,13,711110
+Lyngby Midt,1,710178
+Lyngby Idrætsby,2,708642
+Trongård,3,704030
+Engelsborg,4,706998
+Taarbæk,5,711474
+Virum,6,704050
+Hummeltofte,7,710170
+Virumhallerne,8,702310
+Kongevej,9,710194
+Lundtofte,10,710200
+Ørbygård,1,707822
+Tinderhøj,2,705072
+Rødovre,3,705066
+Valhøj,4,707814
+Rødovrehallen,5,709566
+Islev,6,706324
+Milestedet,7,724738
+Ishøj Landsby,1,708518
+Vibeholmskolen,2,709938
+Gildbroskolen,3,700870
+Strandgårdskolen,4,700876
+Ishøj Bycenter,5,709944
+Vestamager,1,711216
+Pilegården,2,701986
+Tårnby,3,709804
+Korsvejen,4,708328
+Løjtegården,5,701992
+Kastrup,6,708012
+"Vallensbæk Skole, Multisalen",1,707962
+Egholmskolen,2,709762
+Pilehaveskolen,3,701896
+Værløse,1,700970
+Hareskov,2,710110
+Søndersø,3,703986
+Jonstrup,4,710104
+Stavnsholt,5,708606
+Solvang,6,705614
+Paltholm,7,706956
+Blovstrød,1,711248
+Skovvang,2,703802
+Lillerød,3,706698
+Lynge,4,705404
+Ravnsholt,5,705398
+Asminderød,1,703808
+Fredensborg,2,709824
+Humlebæk,3,703766
+Baunebjerg,4,703814
+Kokkedal,5,709818
+Niverød,7,702010
+Karlebo,8,700760
+Nivå,9,708376
+Helsingør Hallen,1,701118
+Skolen ved Gurrevej,2,710298
+"Laden, Gl. Vapnagård",3,705752
+Bølgen,4,707098
+Hornbæk Skole,5,708702
+Nygård Skole,6,707136
+Tikøb Skole,7,708696
+Kvistgård Idrætsanlæg,8,705746
+Snekkersten Hallen,9,702682
+Espergærde Bibliotek,10,702690
+Mørdrupskolen,11,710304
+Toldkammeret,12,748170
+Royal Stage,1,708774
+Hillerødsholmsskolen,2,704344
+Brødeskov,3,701190
+Hammersholt,4,707252
+Alsønderup,5,702782
+Ullerød,6,701196
+Nødebo,7,707266
+Gadevang,8,710380
+"Grønnevang Skole, Jespervej",9,701210
+"Grønnevang Skole, Østervang",10,711644
+Lille Lyngby,11,705868
+"Skævinge, Harløse, Strø",12,705844
+Gørløse,13,702788
+Uvelse,14,711650
+Hørsholm,1,707664
+Usserød,2,709324
+Rungsted,3,707688
+Grønnegade,4,707682
+Vallerød,5,711902
+Birkerød,1,711588
+Grünersvej,3,704274
+Nærum,4,702734
+Sjælsø,5,702728
+Skovly,6,705784
+Toftevang,7,707194
+Trørød,8,708708
+Vangebo,9,701142
+Vedbæk,10,710334
+Ledøje Forsamlingshus,1,703642
+Smørum Idrætscenter,2,711116
+Stenløse,3,709714
+Veksø,4,712198
+Ganløse,5,706424
+Slagslunde,6,705194
+Ølstykke,7,703648
+Stengårdsskolen,8,701864
+Bækkegårdsskolen,9,705206
+Frederikssund Midt,1,710206
+Frederikssund Nord,2,701052
+Frederikssund Syd,3,704056
+Skibby,4,702366
+Jægerspris,5,704070
+Slangerup,6,707024
+Arenaskolen,1,718892
+Greve Idrætscenter,2,718916
+Mosedeskolen,3,718898
+Karlslunde Hallerne,4,718922
+Tune Hallerne,5,718910
+Køge By - Midt,1,706846
+Køge By - Vest,2,709930
+Lellinge,3,706854
+Højelse / Lille Skensved,4,702170
+Ølby,5,705508
+Ølsemagle,6,708480
+Herfølge,7,705496
+Alkestrup,8,708512
+Hastrup,9,705502
+Køge By - Nord,10,711336
+Herfølge - Syd,11,705490
+Borup,12,703912
+Ejby,13,700864
+Gørslev,14,702164
+Bjæverskov,15,711350
+Vemmedrup,16,711344
+Hundested,1,704878
+Melby,2,704906
+Enghaven,3,707654
+Frederiksværk,4,707698
+Ølsted,5,710776
+Roskilde Bymidte,1,707284
+Klostermarken,2,708806
+Sankt Jørgen,3,704350
+Hedegårdene,4,710476
+Østervang,5,704378
+Himmelev,6,702794
+Svogerslev,7,705900
+Vindinge,8,704396
+Vor Frue,9,711680
+Tjørnegård,10,711710
+Gundsølille,11,704320
+Jyllinge,13,704358
+Gundsømagle,14,711686
+Baunehøj,15,710404
+Gadstrup,16,707314
+Viby,17,707326
+Snoldelev,18,707332
+Trekroner,21,704402
+Havdrup,1,705362
+Det Nordlige Strandområde,4,703748
+Det Sydlige Strandområde,5,703740
+Blistrup,1,708756
+Esbønderup,2,701158
+Valby,3,708732
+Græsted,4,704286
+Annisse,5,705834
+Gilleleje,6,711598
+Søborg,7,707246
+Helsinge,8,704298
+Mårum,9,705812
+Ramløse,10,702752
+Vejby,11,704292
+Tibirke,12,701184
+Asnæs,1,701320
+Fårevejle,2,704442
+Grevinge,3,710508
+Hørve,4,711730
+Odden,5,708906
+Vig,6,704468
+Nykøbing,7,710514
+Rørvig,8,701300
+Egebjerg,10,708896
+Højby,11,708820
+Lumsås,12,701326
+Nr. Asmindrup,13,707376
+Holbæk Øst,1,708890
+Holbæk Vest,2,705950
+Holbæk Midt,3,702906
+Vipperød,4,705924
+Tuse,5,705958
+Udby,6,708868
+Tølløse,7,708878
+St. Merløse,8,701294
+Regstrup,9,707370
+Undløse,10,704456
+Jyderup,11,704450
+Mørkøv,12,701314
+Svinninge,13,708862
+Gislinge,14,710502
+Orø,15,707528
+Haslev 01,1,702698
+Haslev 02,2,704216
+Faxe,3,701130
+Hylleholt,4,701124
+Karise,5,710310
+Dalby,6,707142
+Rønnede,7,710328
+Snertinge,1,705664
+Sejerø,2,708648
+Svebølle,3,701040
+Gørlev,4,707012
+Kr. Helsinge,5,704036
+Reersø,6,702334
+Svallerup,7,707004
+Ubby,8,708654
+Høng,9,702316
+Buerup,10,701026
+Gierslev,11,702322
+Kalundborghallen,12,701032
+Rynkevang,13,711468
+Tømmerup,14,705658
+Årby-Rørby,15,701008
+Raklev,16,711460
+Røsnæs,17,710188
+Ulshøj,18,702328
+Ringsted Nørretorv,1,711804
+Bringstrup,2,703062
+Gyrstinge,3,710656
+Benløse,4,703050
+Haraldsted,5,711816
+Ringsted Dagmarskolen,6,704618
+Jystrup,8,710650
+Kværkeby,9,709042
+Vetterslev,10,706072
+Sneslev,11,707472
+Nordrup,12,711810
+Vigersted,13,704612
+Ørslev,14,703056
+Dalmose,1,711606
+Slots Bjergby,3,701164
+Sørbymagle,4,711630
+Korsør Søndre Bydel,5,701098
+Korsør Nordre Bydel,6,720074
+Tårnborg,7,701108
+Vemmelev,8,705790
+Søndermark,9,702758
+Rude,10,705710
+Skælskør Vest,11,707224
+Agersø,12,704408
+Boeslunde,13,710288
+Skælskør Øst,15,701170
+Omø,17,704418
+Slagelse Hallen,19,705804
+Antvorskov,20,711616
+Vesthallen,21,710362
+Nordhallen,22,711566
+Vestermose,24,705820
+Stillinge,25,707240
+Hårlevhallen,1,706800
+Strøbyhallen,2,706794
+Stevnshallen,3,703848
+Sydstevnshallen,4,705452
+Dianalund,1,705570
+Ruds Vedby,2,705564
+Alsted Fjenneslev,4,711404
+Sorø,5,702234
+Frederiksberg,6,711410
+Pedersborg,8,700914
+Stenlille,10,710022
+Hyllinge-Lyndby,1,703440
+Rye,2,707756
+Sæby-Gershøj,3,703454
+Sonnerup,4,706260
+Glim,5,712044
+Hvalsø,6,707762
+Kr.Såby,8,712008
+Gevninge,9,706216
+Lejre,11,710890
+Osted,12,703434
+Errindlev,1,708426
+Holeby,3,700840
+Sandby,8,706762
+Søllested,11,706822
+Maribo,13,705484
+Askø,14,709912
+Østofte,19,708456
+Nakskov Vest,20,705458
+Nakskov Øst,21,705464
+Birket,26,706808
+Fejø,27,709900
+Femø,28,706816
+Horslunde,29,703864
+Dannemare,35,706746
+Rødby,36,702106
+Rødbyhavn,37,703882
+Fuglebjerg,1,711122
+Everdrup,2,707904
+Grønbro Hallen,3,712210
+Fladså Hallen,4,707910
+Tybjerg,5,703660
+Tappernøje,6,707924
+Hammer - Vester Egesborg,7,711128
+Fensmark,8,707918
+Holme-Olstrup,9,709726
+Toksværd,10,712222
+Glumsø,11,703666
+Sandby,12,707930
+Skelby,13,709720
+Herlufmagle,14,705200
+Lille Næstved Skole - Karrebækvej,20,701870
+Grønnegades Kaserne,21,703654
+Ellebækskolen - Kildemark,22,706454
+Arena Næstved,23,701858
+Kobberbakkeskolen - Sct. Jørgen,24,706430
+Ellebækskolen - Kalbyris,25,706460
+Lille Næstved Skole - Herlufsholmvej,26,712204
+Herlufsholmhallen,27,711136
+Kobberbakkeskolen - Sydby,28,711142
+Kobberbakkeskolen - Rønnebæk,29,706418
+Lille Næstved Skole - Hyllinge,31,706398
+Lille Næstved Skole - Karrebæk,32,703592
+Byen,1,709646
+Østerbro,2,703554
+Lindeskov,3,706380
+Ejegod,4,706386
+Kraghave,5,712124
+Toreby,6,701778
+Sundby,7,701828
+Nysted,8,712080
+Øster Ulslev,9,705042
+Nørre Alslev,10,701748
+Nørre Vedby,11,711018
+Eskilstrup,12,712156
+Sakskøbing,13,707852
+Majbølle,14,709572
+Våbensted,15,709670
+Stubbekøbing,16,703496
+Horreby,17,709640
+Idestrup,18,703548
+Væggerløse,19,701764
+Gedser,20,705108
+Vordingborg,1,711010
+Masnedsund,2,706314
+Nyråd,3,705084
+Kastrup,4,705078
+Bårse,5,709558
+Lundby,6,705010
+Ørslev,7,709584
+Stege,8,707768
+Østmøn,9,712094
+Vestmøn,10,701698
+Bogø,11,701742
+Præstø,12,706306
+Allerslev,13,701732
+Jungshoved,14,703480
+Mern,15,707828
+Kalvehave,16,705054
+Stensved,17,706330
+Allinge,1,703208
+Østermarie,2,707574
+Svaneke,3,703086
+Nexø,4,703286
+Pedersker,5,709262
+Aakirkeby,6,704742
+Klemensker,7,712002
+Rønne,8,711102
+Hasle,9,707890
+Middelfart V,1,706714
+Middelfart Ø,2,708394
+Strib,3,703828
+Hyllehøj,4,705440
+Aulby,5,706728
+Nørre Aaby,6,709862
+Baaring,7,711266
+Ejby,8,705422
+Gelsted,9,708388
+Brenderup,10,700808
+Fjelsted/Harndrup,11,705434
+Christiansø,1,702974
+Assens,1,710764
+Ebberup,2,709318
+Turup,3,711914
+Salbrovad,4,709286
+Aarup/Kerte,5,748073
+Rørup,6,748071
+Orte/Ørsted,7,710796
+Glamsbjerg/Søllested,8,704912
+Flemløse,9,701534
+Køng,10,748072
+Vissenbjerg,11,748070
+Dreslette/Helnæs,12,701526
+Haarby,13,707710
+Jordløse,14,711908
+Brylle,15,701552
+Tommerup,16,710784
+Tommerup St,17,704924
+Verninge/Nårup,18,707704
+Allested-Vejle,1,709036
+Brobyværk,2,707478
+Nørre Broby,3,707442
+Vester Hæsinge,4,704606
+Avernakø,5,711756
+Faaborg,7,701392
+Horne,8,710612
+Korinth,9,709008
+Lyø,10,704544
+Svanninge,11,704554
+Vester Aaby,12,708944
+Espe,13,709014
+Hillerslev,14,703044
+Ringe,15,711798
+Søllinge,16,710674
+Gislev,17,704576
+Kværndrup,18,704582
+Ryslinge,19,701422
+Nr. Lyndelse,20,707460
+Ferritslev,21,707454
+Årslev,22,706054
+Mesinge,1,712260
+Kerteminde 1,2,706574
+Nymarken,4,705322
+Marslev,5,705316
+Langeskov,6,707976
+Munkebo,7,705226
+Aunslevhallen,1,705368
+Nyborghallen,2,703754
+Bastionen,3,706634
+Vindinge Forsamlingshus,4,705374
+"Langå, Svindinge Og Øksendrup",5,709812
+Ullerslev,6,708334
+Ellinge,7,701998
+Skellerup,8,703760
+Langtved,9,708340
+Ørbæk,10,708346
+Frørup Og Tårup,11,705380
+Ellested Og Herrested,12,702004
+Kullerup Og Refsvindinge,13,706642
+Skt. Jørgens Hallen,1,746369
+Sct. Hans Skole,2,707258
+Risingskolen,3,705850
+Munkebjergskolen,4,711668
+Ejerslykkeskolen,5,707294
+Agedrup Skole,6,705856
+Fjordager-Hallen,7,708762
+Fraugde Fritidscenter,9,710386
+Seniorhus Odense,11,707300
+CSV-Skolen,12,708782
+Lumby Skole,13,702812
+Stige Skole,14,702824
+Spurvelundskolen,16,701218
+Kroggårdsskolen,17,702818
+Tarup Skole,18,701224
+Paarup Hallen,19,702830
+Korup Skole,20,710430
+Ubberud Kultur & Bevægelseshus,21,707308
+Rådhuset,23,705888
+Sct. Knuds Gymnasium,24,705876
+Rosengårdskolen,25,705894
+Sanderumhallen,26,711692
+Rasmus Rask-Skolen,28,705882
+Tingløkkeskolen,29,711698
+Dalumskolen,30,702866
+Skt. Klemensskolen,31,708794
+Fangel Forsamlingshus,32,708800
+Højby Skole,33,711704
+Camp U,35,711662
+UngOdense (Tidl.Bækholmskolen),36,705862
+Byen,1,705276
+Nordre,2,701944
+Østre,3,705356
+Bjerreby,4,748110
+Bregninge,5,707990
+Drejø,6,703708
+Egense,7,705328
+Landet,8,705344
+Skårup,9,703734
+Thurø,10,709768
+Tved,11,703728
+Kirkeby,14,709774
+Ollerup,16,706616
+Stenstrup,17,701964
+V.Skerninge,19,708006
+Gudbjerg,21,705350
+Gudme,23,709786
+Hesselager,25,712298
+Oure,27,707982
+Bogense,1,709482
+Klinte,2,710924
+Kongslund,3,707808
+Horsebæk,4,710952
+Krogsbølle,5,710852
+Otterup,6,709540
+Løkkemark,7,710946
+Skovløkke,8,709418
+Veflinge,9,701708
+Hårslev,10,705036
+Morud,11,709546
+Særslev,12,710966
+Søndersø,13,709534
+Bagenkop,1,707504
+Humble,2,704630
+Lindelse,3,711786
+Rudkøbing,5,704594
+Strynø,6,701440
+Tullebølle,7,701464
+Lejbølle,8,704688
+Hou,10,709020
+Marstal,1,706902
+Ærøskøbing,2,702246
+Søby,3,700952
+Gram,1,706096
+Arnum,2,707626
+Tiset,3,704724
+Fole,4,701494
+Haderslev Syd-Vest,5,704736
+Haderslev Syd,6,709256
+Haderslev Midtby,7,709300
+Haderslev Vest,8,711866
+Sommersted,9,710846
+Haderslev Nord,10,711872
+Haderslev Øst,11,709412
+Moltrup,12,703422
+Hoptrup,13,703202
+Starup,14,706202
+Vilstrup,15,703080
+Kelstrup,16,704730
+Vonsbæk,17,707620
+Aastrup,18,707612
+Øsby,19,710748
+Aarø,20,703400
+Marstrup,21,709148
+Halk,22,709390
+Fjelstrup,24,701506
+Bevtoft,25,710758
+Vojens Øst,26,711852
+Vojens Vest,28,711878
+Skrydstrup,29,707568
+Hammelev,30,703304
+Jegerup,31,711996
+Simmersted,32,709142
+Nustrup,33,711884
+Oksenvad,34,703416
+Vedsted,35,710740
+Over Jerstal,36,704758
+Billund,1,704500
+Sdr. Omme,2,701374
+Vorbasse,3,704532
+Filskov,4,702968
+St./Krogager,5,710594
+Grindsted,6,707400
+Hejnsvig,7,708930
+Nordborg,1,703038
+Havnbjerg,2,710634
+Egen,3,701408
+Fynshav,4,701428
+Augustenborg,5,710642
+Hørup,6,707448
+Sydals,7,703032
+Kegnæs,8,707466
+"Humlehøj, Sønderborg",9,701434
+"Sønderskov, Sønderborg",10,704588
+"Kongevej, Sønderborg",11,710622
+Dybbøl,12,701416
+Vester Sottrup,13,706060
+Ullerup,14,706040
+Broager,15,706048
+Gråsten,16,704566
+Kværs,17,706066
+Bredebro,1,712106
+Ballum,2,703560
+Visby,3,711072
+Højer,4,706374
+Sdr. Sejerslev,7,707858
+Møgeltønder,8,706368
+Løgumkloster,12,701834
+Nr. Løgum,14,711084
+Bedsted,15,703566
+Øster Højst,16,709676
+Agerskov,17,701806
+Arrild,18,711066
+Branderup,19,709622
+Døstrup,21,709616
+Toftlund,23,701800
+Brøns,24,711078
+Tønder,25,705136
+Abild,27,701794
+Hostrup,29,707840
+Rømø,51,705128
+Skærbæk,61,709602
+Vodder,71,705162
+Esbjerg Rådhus,2,705826
+Skovbo,3,708726
+Rørkjær,4,701204
+Jerne,5,710374
+Boldesager,6,702746
+Østerbyen,7,702806
+Skads,8,705174
+Gjesing,11,708768
+Bryndum,12,701840
+Sædding,15,704330
+Hjerting,16,712150
+Guldager,17,709664
+Tjæreborg,20,703522
+Kvaglund,21,702740
+Ådalen,22,710368
+Grønlandsparken,23,710398
+Sønderris,24,711090
+Bramming,25,703542
+Ribe,28,703580
+Egebæk-Hviding,32,707870
+Gredstedbro,33,701812
+Mandø,35,703586
+Høm,38,707876
+Gørding,40,707864
+Nordby,1,702962
+Sønderho,2,710532
+Varde By,1,701470
+Sig,4,707512
+Billum,5,709030
+Tinghøj,6,709048
+Alslev,7,704642
+Horne,8,707556
+Janderup,9,706084
+Lunde,10,710668
+Nørre Nebel,13,707430
+Henne,14,703068
+Outrup,15,710662
+Oksbøl,18,707498
+Blåvand,19,708972
+Årre,22,709060
+Agerbæk,23,704694
+Fåborg,24,704654
+Næsbjerg,26,707562
+Starup,27,704648
+Nordenskov,28,706078
+Ølgod,30,710690
+Tistrup,31,704624
+Ansager,32,701482
+Skovlund,33,709054
+Brørup,1,703026
+Lindknud,2,706022
+Holsted,3,701368
+Føvling,4,706028
+Glejbjerg,5,707412
+Hovborg,6,707418
+Rødding,7,701350
+Sdr. Hygum,8,704526
+Jels,9,706016
+Lintrup,10,710606
+Skodborg,11,704538
+Københoved,12,701380
+Øster Lindet,13,710600
+Vejen,14,704514
+Læborg,15,703014
+Askov-Malt,16,701362
+Andst,17,704520
+Gesten,18,703020
+Bække,19,701386
+Hovslund,1,705386
+Hellevad,2,703772
+Rødekro,3,706666
+Løjt,4,701976
+Hjordkær,5,705392
+Ravsted,6,706648
+Bolderslev,7,708364
+Ensted,8,703784
+Felsted,9,708358
+Varnæs,10,708352
+Bylderup,11,706654
+Tinglev,12,711228
+Kliplev,13,706660
+Kruså,14,709794
+Padborg,15,709832
+Aabenraa Midt,16,702016
+Aabenraa Syd,17,703778
+Aabenraa Nord,18,700772
+Gymnasiet,1,707936
+Bredstrup-Pjedsted,2,709738
+Erritsø,3,701876
+Herslev,4,709732
+Taulov,5,705216
+Søndermarken,6,707944
+Bøgeskov,7,711148
+Indre By,8,712216
+Sønderbro,1,710898
+Vestbyen,2,704998
+Midtbyen,3,706286
+Endelave,4,706240
+Forum,5,706268
+Dagnæs,6,701652
+Torsted,7,707750
+Hatting,8,706280
+Lund,9,710912
+Egebjerg,10,706274
+Stensballe,11,710904
+Højvangen,12,709464
+Brædstrup,13,701658
+Nim,14,706254
+Sdr.Vissing,15,706298
+Østbirk,16,701646
+Gedved,17,712014
+Hovedgård,18,709470
+Søvind,19,712020
+Tønning-Træden,20,712056
+Sundparken,21,703428
+Sejet,22,709476
+Centrum Nord,1,706610
+Nordbyen,2,701938
+Vestbyen,3,706604
+Strandhuse/Nr. Bjert/ Eltang,4,705338
+Bramdrupdam,5,706622
+Alminde-Viuf/Vester Nebel,6,701932
+Lunderskov/Jordrup,7,708000
+Centrum Syd,8,701902
+Sydbyen,9,701916
+Seest,10,712320
+Dalby/Tved/Rebæk,11,701908
+S Bjert/S Stenderup/Vejstrup,12,705308
+Vonsild,13,707970
+Vamdrup/Hjarup/Ødis,14,712326
+Chr.Feld/Stepping/Taps/Hejls,15,712312
+Brejning Syd,1,708612
+Børkop Syd,2,711442
+Gårslev Syd,3,700976
+Smidstrup Syd,4,702298
+Ødsted Syd,5,710116
+Egtved Syd,6,710134
+Jerlev Syd,7,711448
+Øster Starup Syd,8,710122
+DGI-Huset Syd,9,708618
+Multihuset Højen Syd,10,710128
+Vinding Idræts Center Syd,11,703992
+Mølholmhallen Syd,12,705630
+Kvartershuset Syd,13,700984
+CSV - Vejle Syd,14,705620
+Rødkilde Gymnasium Syd,15,703998
+Skibet Hallen Nord,16,702280
+Give Nord,17,711436
+Thyregod Nord,18,700940
+Gadbjerg Nord,19,706950
+Givskud Nord,20,700946
+Grønbjerg Nord,21,706962
+Lindeballe Nord,22,702264
+Øster Nykirke Nord,23,703974
+Jelling Nord,24,708586
+Kollerup-Sandvad Nord,25,703968
+Grejs Nord,26,710054
+Bredsten Nord,27,702272
+Nørup Nord,28,708580
+Vandel Nord,29,702258
+Nørremarkshallen Nord,30,705588
+Engum Nord,31,703960
+Hældagerhallen Nord,32,706968
+Grejsdalen Nord,33,705594
+Multihallen v. Petersmindeskolen Nord,34,703980
+Herning,1,712062
+Arnborg,2,706292
+Kibæk,5,703462
+Kølkær,6,701670
+Lind,7,712050
+Sdr. Felding,8,701664
+Skarrild,9,710918
+Studsgård,11,704992
+Aulum,13,709506
+Feldborg,14,709514
+Gullestrup,15,701676
+Haderup,16,701720
+Hammerum,17,703468
+Hodsager,18,705004
+Ilskov,19,705024
+Simmelkær,20,701684
+Sinding,21,701714
+Skibbild/Nøvling,22,703474
+Snejbjerg,23,707802
+Sunds,24,712068
+Timring,25,710958
+Tjørring,26,709528
+Vildbjerg,27,712074
+Vind,28,709520
+Vinding,29,701690
+Ørnhøj,30,705030
+Musikteatret,1,709372
+Mejdal,2,703344
+Skave,3,707720
+Mejrup,4,703338
+Nørreboulevardskolen,5,711920
+Vinderup,6,701564
+Sevel,7,706148
+Ulfborg,8,706142
+Vemb,9,703316
+Sdr. Nissum,10,709344
+Lemvig,1,706536
+Nørre Nissum,2,711166
+Klinkby,3,711178
+Ramme,4,711172
+Bøvling,5,712242
+Flynder,6,711198
+Thyborøn,7,706550
+Harboøre,8,701882
+Struer,1,711302
+Gimsing,2,702100
+Hjerm,3,703842
+Humlum,4,700832
+Bremdal,5,706786
+Langhøj,6,708418
+Hvidbjerg,7,709888
+Ebeltoft,1,701596
+Mols,2,703350
+Tirstrup,3,703380
+Kolind,4,711940
+Ryomgård,5,711952
+Hornslet,6,701618
+Mørke,7,710826
+Rønde,8,711958
+Kulturhuset Pavillonen,1,709078
+Anholt Skole,2,711832
+Kulturhuset Stationen,3,709066
+Grenaa Idrætscenter,4,707484
+Glesborg,5,709072
+Ørum,6,707518
+Ørsted,7,704660
+Allingåbro,8,710680
+Auning,9,709084
+Vivild,10,701476
+Hadsten Nord,1,712100
+Hadsten Syd,2,711042
+Hadbjerg,3,709610
+Hammel Nord,4,706354
+Hammel Syd,5,706342
+Haldum-Hinnerup/Vitten,6,709596
+Rønbæk/Grundfør,7,705102
+Foldby,8,704336
+Ulstrup,9,707834
+Thorsø/Haurum/Sall,10,707278
+Laurbjerg/Houlbjerg,11,711048
+Søften,12,711674
+Voldum,13,706360
+Lading,14,707272
+Odder,1,709406
+Torrild,2,701640
+Saksild - Nølev,3,701632
+Randlev - Bjerager,4,709400
+"Hou, Gosmer - Halling",5,703392
+Gylling,6,704968
+Ørting-Falling,7,706210
+Hundslund,8,704986
+Alrø,9,711964
+Tunø,10,710838
+Kulturhuset Langå,1,704314
+Stevnstrup Forsamlingshus,2,702764
+Jebjerg Forsamlingshus,4,701178
+Havndalhallen,5,704136
+Råby Forsamlingshus,6,704222
+Øster Tørslev Fritidslokaler,7,705768
+Korshøjskolen,8,710316
+Hald Forsamlingshus,9,702710
+Gjerlev Aktivitetshus,10,701136
+Rismølleskolen,11,707150
+Randers Specialskole (Firkløverskolen),12,704268
+Hornbækhallen,13,707188
+Blicherskolen,14,710340
+Kultur-Aktivitetshuset Gassum,15,705778
+Asferg Træningshus,16,708750
+Purhushallen,17,708738
+Ø. Bjerregrav Forsamlingshus,21,702776
+Psykiatriens Hus,24,707212
+Hobrovejens Skole,25,702770
+Randers Badmintonhaller,26,707182
+Nørrevangsskolen,27,710322
+Fritidscentret,28,711624
+Vestervangsskolen,29,711576
+Østervangsskolen,30,711582
+Søndermarkskolen,31,708744
+Tirsdalens Skole,32,711638
+Paderup Gymnasium,33,704280
+Romalt Aktivitetshal,34,702716
+Assentofthallen,36,710392
+Uggelhuse Forsamlingshus,37,707204
+Ans,1,708400
+Funder,2,700814
+Fårvang,3,705416
+Gjern,4,709876
+Grauballe,5,711288
+Gødvad,6,711296
+Kjellerup,7,711260
+Kragelund,8,711222
+Lemming,9,711254
+Linå,10,711272
+Resenbro,11,700766
+Sejling,12,706706
+Sejs,13,705410
+Sjørslev,14,709870
+Sorring,15,702058
+Thorning,16,703820
+Vinderslev,17,708382
+Voel,18,705446
+Balle,21,709850
+Bryrup,22,700802
+Buskelund,23,706686
+Gjessø,24,706692
+Hjøllund,25,702052
+Langsøskolen,26,709856
+Lysbro,27,702040
+Alderslyst,28,702046
+Jysk Arena,29,706680
+Them,30,700790
+Vestergadehallen,31,711242
+Virklund,32,700796
+Tranebjerg,1,709154
+Nordby,2,704790
+Ejer Bavnehøj,1,700784
+Galten,2,702022
+Gl. Rye,3,702034
+Hørning,4,709844
+Låsby,5,702028
+Morten Børup,6,700778
+Niels Ebbesen,7,711236
+Ry,8,703790
+Skovby,9,708370
+Stilling,10,703796
+Stjær,11,706674
+Virring,12,709838
+Frederiksbjerg Hallerne,1,702188
+Lokalcenter Fr.Bjerg/Langenæs,2,706884
+"Rundhøjhallen, Holme",3,706890
+"Kragelundskolen, Højbjerg",4,703936
+Tranbjerg Skole,6,702228
+"Rosenvangskolen, Viby J",7,700922
+Viby Hallen,8,700928
+Beder Skole,9,709990
+DOKK1,10,708544
+Malling Skole,11,711386
+Mårslet Skole,12,703942
+Solbjergskolen,13,709996
+"Generationernes Hus, Aarhus Ø",14,748351
+Ormslev Præstegård,16,705582
+Hasselager Hallen,18,703954
+"Højvangskolen, Stavtrup",19,702240
+"Folkestedet, Carl Blochs Gade",20,748350
+Rådhushallen,21,708568
+"Gammelgårdskolen, Åbyhøj",22,700890
+Hasle Skole,23,706860
+"Brabrandhallen, Brabrand",24,706938
+Globus 1,25,710046
+Skjoldhøjskolen,26,710040
+VIA University College,27,723742
+"TST Aktiv-Center, Tilst",28,703948
+Næshøjhallen,30,711422
+Borum Forsamlingshus,31,705576
+"Sabro-Korsvejskolen, Sabro",33,710034
+Samsøgades Skole,41,711398
+Skovvangskolen,42,708530
+Møllevangskolen,43,706866
+Lisbjergskolen,44,705526
+Bellevue-Hallen,45,709972
+Lystrup Hallen,47,705532
+"Virupskolen, Hjortshøj",48,711374
+"Sølystskolen, Egå",49,702208
+Skæring Skole,50,708574
+Skødstrup Hallen,51,705544
+"Bjørnshøjcentret, Trige",53,705514
+Spørring Fælleshus,55,705520
+Håruphallen,56,711356
+Vejlby-Risskov Hallen,61,711368
+"Søndervangskolen, Viby J",62,711416
+Center-10,63,709952
+Åby Hallen,64,710028
+"Ellevangskolen, Risskov",65,711392
+Skåde Skole,66,700902
+Katrinebjergskolen,67,703918
+Vorrevangskolen,68,708524
+Ejstrup,1,705552
+Gludsted,2,703930
+Nørre Snede,3,709984
+Klovborg,4,713316
+Brande,5,702176
+Blåhøj,6,713298
+Ikast,7,711380
+Isenvad,8,703924
+Bording,9,713304
+Engesvang,10,713310
+Tarm,1,707956
+Holmsland,2,706404
+Hoven,3,706524
+Lyne,5,703696
+Bork,8,706466
+Lønborg,9,703622
+Hvide Sande,10,712176
+Velling,12,706556
+Ølstrup,13,709756
+Ringkøbing,14,705180
+Hee,16,712306
+Stadil,19,709750
+Højmark,20,706590
+Lem,21,711192
+Tim,22,706568
+Skjern,24,711186
+Borris,25,703690
+Faster,26,706584
+Rækker Mølle,27,703702
+Stauning,28,709682
+Videbæk,30,706530
+Nr.Vium,31,712292
+Troldhede,32,707950
+Vorgod-Barde,33,711210
+Spjald,35,703684
+"Hedensted, St.Dalby Og Urlev",1,702112
+Løsning Sogn,2,706834
+Ø. Snede Sogn,3,702132
+Daugård Og Ørum Sogne,4,705478
+Korning Sogn,5,703888
+Ølsted Og Eriknauer-Området,6,711322
+Juelsminde/Klakring,7,705470
+As,8,708504
+Barrit,10,706828
+Bjerre,11,703906
+Hornsyld,12,711310
+Stouby,13,709924
+Rårup,14,700852
+Glud,15,702118
+Hjarnø,16,708466
+Rask Mølle,17,703900
+Hvirring,18,708474
+Hornborg,19,702138
+Lindved,20,700846
+Tørring,21,703894
+Uldum,22,706840
+Aale,23,709918
+Ølholm,24,711316
+Hjortsvang,25,702126
+Sejerslev,1,705682
+Øster Jølby,2,702454
+Vils,3,711508
+Hvidbjerg,4,711514
+Nykøbing,5,710282
+Aakjær,1,710226
+Skivehus,2,704098
+Brårup,3,702436
+Højslev,4,704104
+Ørslevkloster,5,704112
+Rønbjerg,6,711502
+Hem,7,704118
+Lihme,8,707030
+Oddense - Otting,9,701086
+Rødding,10,710220
+Glyngøre,11,705676
+Durup,12,710214
+Roslev,13,711490
+Jebjerg-Lyby,14,711496
+Balling,15,702422
+Breum,16,701070
+Håsum-Ramsing,17,707038
+Selde,18,711480
+Lem-Vejby,19,702430
+Fur,20,701060
+Thisted,1,705918
+Vorupør,5,702944
+Nors,6,709112
+Sennels,7,705906
+Sjørring,8,704712
+Snedsted,10,708884
+"Øsløs, Vesløs og Arup",15,701270
+Østerild,16,711822
+Hanstholm,17,702896
+Klitmøller,19,705976
+Frøstrup,20,709118
+Bedsted,23,704700
+Hurup,24,707382
+Koldby,25,701288
+Vestervig,26,705982
+Frederiks,1,708912
+Hald Ege,2,702938
+Karup,3,711744
+Løgstrup,4,701332
+Mønsted,5,702956
+Stoholm,6,704488
+Vridsted,7,704480
+Viborg,8,702932
+Bjerringbro Nord,9,704706
+Bjerringbro Syd,10,710702
+Hammershøj,11,701488
+Møldrup,12,711838
+Overlund,13,709124
+Rødding,14,709100
+Rødkærsbro,15,710696
+Skals,16,709090
+Ørum,17,709106
+Agersted,1,708624
+Asaa,2,708636
+Dronninglund,3,705640
+Flauenskjold,4,700996
+Hjallerup,5,700990
+Klokkerholm,6,704006
+Brønderslev,10,710140
+Stenum,34,702304
+Thise,40,704012
+Ø. Brønderslev,50,705646
+Hallund,56,704018
+Jerslev,70,711454
+Serritslev,80,708630
+Skagen,1,705148
+Hulsig,2,706348
+Ålbæk,3,705156
+Jerup,4,709634
+Elling,5,712132
+Strandby,6,711060
+Frederikshavn Nord,7,706336
+Frederikshavn Midt,8,710978
+Frederikshavn Syd,9,707846
+Ravnshøj,10,709628
+Gærum,11,703530
+Sæby,12,705142
+Brønden,13,703510
+Dybvad,14,712112
+Hørby,15,703516
+Præstbro,16,712118
+Thorshøj,17,711036
+Understed,18,703536
+Voerså,19,703504
+Volstrup,20,711054
+Østervrå,21,712138
+Lyngså,22,705090
+Aalestrup,1,708562
+Farsø,2,705538
+Strandby,3,708538
+Aars,4,700858
+Hvalpsund,5,711328
+Gislum-Vognsild,6,710016
+Gedsted,7,710008
+Hornum-Ulstrup,8,705558
+Vester Hornum,9,710002
+Løgstør,10,702144
+Ranum,11,709958
+Salling,12,706876
+Overlade,13,700908
+Skivum-Giver,14,709966
+Læsø,15,702460
+Støvring,1,707882
+Skørping,2,709658
+Terndrup,3,703572
+Suldrup,4,712170
+Nørager,5,712164
+Haverslev,6,709652
+Øster Hornum,7,701822
+Bælum,8,711096
+Ravnkilde,9,706392
+Blenstrup,10,712144
+Veggerby,11,705168
+Assens,2,708668
+Mariager,3,700964
+Arden,4,707018
+Valsgård,8,702354
+Vebbestrup,9,701046
+Hadsund,11,705600
+Veddum-Skelund,14,702360
+Als,18,710066
+Hørby,20,708660
+Onsild,22,706980
+Hobro,27,702292
+Aabybro,1,709280
+Biersted,2,701500
+Nørhalne,3,701540
+Vedsted,4,711896
+Gjøl,5,710716
+Ingstrup,6,709244
+V. Hjermitslev,7,709274
+Brovst,8,711858
+Halvrimmen,9,706102
+Arentsminde,10,703190
+Tranum,11,709250
+Skovsgård,12,707638
+Fjerritslev,13,707632
+Thorup,14,704750
+Ørebro,15,711844
+Trekroner,16,703196
+Pandrup,18,704764
+Kaas,19,704770
+Hune,20,701514
+Saltum,21,703310
+"Gl. Lindholm Skole, Kulturhus",3,711766
+PFA Kollegiet i Nørresundby,4,748032
+Løvvanghallen,5,707424
+Multihallen Ved Vadumhallen,7,706034
+Sulsted Skolehal,10,701402
+Vodskov Kultur & Idrætscenter,11,708960
+"HF&VUC Nord, Godsbanen",12,748033
+Vesterkærets Skole,14,705992
+Haraldslund,15,704474
+Aalborghallen,16,711774
+Skipperens Idrætshus,17,710526
+Hallen Ved Skalborggård,18,704462
+Kfum - Hallen,19,701344
+Hasseris Gymnasium,20,748031
+Frejlev Skoles Idrætshal,22,705964
+Svenstruphallen,24,708924
+Sønderbroskolen,27,708938
+Nordkraft,28,748030
+Gigantium,29,704506
+Vejgaardhallen,30,707394
+Vejgaard Østre Skole,31,708918
+Mellervangskolens Idrætshal,32,711750
+Klaruphallen,33,701338
+Gughallen,34,706010
+Gistrup Skoles Idrætshal,35,702950
+Aalborghus Gymnasium,36,748034
+Ferslev Skolehal,38,705970
+"Tornhøjskolen, Hallen",40,704494
+Vester Hassing Hallen,43,710544
+Hals Skole,44,710552
+Ulstedhallen,46,708966
+Nibe Hallen,47,705942
+Farstruphallen,52,707350
+Idrætscentret Kongerslev,56,707406
+Mou Hotel,58,702918
+Båndby - Hallen,61,701356
+Horne,1,702860
+Hirtshals,3,710464
+Hjørring - Centrum,4,710442
+Tornby,6,710458
+Bindslev,7,708788
+Tversted,8,710470
+Taars,11,701230
+Vrejlev-Hæstrup,12,710436
+Bjergby-Mygdal,13,710488
+Skallerup,14,701236
+Hjørring - Nord,15,704384
+Hjørring - Syd,16,702842
+Hjørring - Vest,18,702836
+Vrå,19,702854
+Hundelev,20,710482
+Løkken,21,702848
+Sindal,22,707320
+Astrup,23,704372
+Tolne,26,710452
+Ugilt,27,701248
+Lendum,28,701242
