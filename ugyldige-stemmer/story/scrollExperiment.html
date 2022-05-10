@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<head>
+    <style>
+       
+        body {
+            margin:0px;
+            overflow-x:hidden;
+            width: 100%;
+        }
+
+        #one {
+            width:100%;
+            height:400px;
+            background:red;
+        }
+
+        #two {
+            width:100%;
+            height:400px;
+            background:blue;
+        }
+
+        #three {
+            display: inline-block;
+            margin:0px;
+            padding:0px;
+            width:50%;
+            vertical-align: top;
+            height:400px;
+            background:pink;
+        }
+
+        #four {
+            display: inline-block;
+            margin:0px;
+            padding:0px;
+            width:49%;
+            vertical-align: top;
+            height:400px;
+            background:green;
+        }
+
+        #five {
+            display: inline-block;
+            margin:0px;
+            padding:0px;
+            width:100%;
+            vertical-align: top;
+            height:400px;
+            background:red;
+        }
+
+        #fade {
+            font-size: 400%;
+            text-align: center;
+            padding:150px;
+            color:white;
+        }
+    </style>
+    <script src="noframework.waypoints.min.js"></script>
+</head>
+<body>
+    <div id="one">
+
+    </div>
+    <div id="two">
+
+    </div>
+    <div id="three">
+
+    </div>
+    <div id="four">
+        <div id="fade">Hello</div>
+    </div>
+    <div id="five">
+
+    </div>
+    <script>
+       let fade = document.querySelector("#fade")
+       var waypoint = new Waypoint({
+           element: fade,
+           handler: function(direction) {
+               console.log("in")
+           },
+           offset:'20%'
+       })
+
+       var waypoint = new Waypoint({
+           element: fade,
+           handler: function(direction) {
+               console.log("out")
+           },
+           offset: 'bottom-in-view' //when buttom enters view
+       })
+
+    </script>
+</body>
+</html>

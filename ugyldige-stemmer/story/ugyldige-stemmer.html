@@ -1,17 +1,35 @@
-<html>
-    <head>
-        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
-        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
-        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+<!DOCTYPE html>
 
-    </head>
-    <body>
-        <p>Hvert fjerde år eller deromkring stemmer vi om hvem der skal repræsentere os i folketinget.</p>
-        <p>Vi følger med stor interesse hvem der får flest stemmer, hvilke partier der får flertal og hvilke kandidater der får flest personlige stemmer.</p>
-        <p>Vi følger med spænding eller ængstelighed med i hvilke partier der vinder og hvilke der taber, hvem der skal danne regering og måske være statsminister</p>
-        <p>Ved folketingsvalget i 2019 var der 3569521 af Danmarks 4219537 stemmeberettigede der afgav deres stemme. Altså en valgdeltagelse på 84,59 procent!</p>
-        <div id="vis"></div>
-        <!-- 
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  <style>
+    body {
+      margin: 0px auto;
+      text-align: center;
+    }
+    .scrollbox {
+      margin:10px;
+      width: 100%;
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>De ugyldige stemmer</h1>
+  <p>Hvert fjerde år eller deromkring stemmer vi om hvem der skal repræsentere os i folketinget.</p>
+  <p>Vi følger med stor interesse hvem der får flest stemmer, hvilke partier der får flertal og hvilke kandidater der
+    får flest personlige stemmer.</p>
+  <p>Vi følger med spænding eller ængstelighed med i hvilke partier der vinder og hvilke der taber, hvem der skal danne
+    regering og måske være statsminister</p>
+  <p>Ved folketingsvalget i 2019 var der 3569521 af Danmarks 4219537 stemmeberettigede der afgav deres stemme. Altså en
+    valgdeltagelse på 84,59 procent!</p>
+  <div class="scrollbox">
+    <div id="vis" style="width:880px;overflow:hidden;"></div>
+  </div>
+  <!-- 
             VI kan beskrive valgdeltagelsen i tekst
 
             Søjle diagram med partier fra seneste folketingsvalg
@@ -21,35 +39,23 @@
             data grundlag: https://www.statistikbanken.dk/20005
         -->
 
-        <!--
+  <!--
             Fem partier kategorier der fik færrest stemmer og ugyldige stemmer
             data grundlag: https://www.statistikbanken.dk/20005
          -->
 
-         <script>
+  <div id="filler" style="height: 500px;"></div>
 
-let visDK = {
-    $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
-    "description": "Barchart with election results",
-    "data": {
-      "values": [
-        {"a": "A","b": 914882}, {"a": "B","b": 304714}, {"a": "C","b": 233865},
-        {"a": "D","b": 83201}, {"a": "E","b": 29600}, {"a": "F","b": 272304},
-        {"a": "I","b": 82270}, {"a": "K","b": 60944}, {"a": "O","b": 308513},
-        {"a": "P","b": 63114}, {"a": "V","b": 826161}, {"a": "Ø","b": 245100},
-        {"a": "Å","b": 104278}, {"a": "X","b": 2774}, {"a": "?","b": 37801}
-      ]
-    },
-    "mark": "bar",
-    "encoding": {
-      "x": {"field": "a", "type": "ordinal"},
-      "y": {"field": "b", "type": "quantitative"}
-    }
-}
+  <script src="../analysis/vg-partier-ugyldige-dk-2019.js"></script>
+  <script>
+    let visOne = document.querySelector("#vis");
+    let scrollBox = document.querySelector(".scrollbox")
 
-vegaEmbed('#vis', visDK);
-         </script>
+    document.
+    
+    vegaEmbed('#vis', visDK, { "actions": false });
 
+  </script>
+</body>
 
-    </body>
 </html>
