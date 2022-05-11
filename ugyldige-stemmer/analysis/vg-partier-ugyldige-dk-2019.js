@@ -20,8 +20,21 @@ let partifarver = {
 let visDK = {
     $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
     "description": "Barchart with election results",
-    "width": 800,
-    "height": 400,
+    "config": {
+      "background": "black",
+      "axis": {
+        "labelFont": "Georgia",
+        "labelFontSize": 16,
+        "labelPadding":10,
+        "titleFont": "Georgia",
+        "titleFontSize": 24,
+        "titlePadding": 10,
+        "labelColor": "white",
+        "titleColor": "white"
+      }
+    },
+    "width": 500,
+    "height": 300,
     "data": {
       "values": [
         {"a": "A","b": 914882, "s":914882, "color":"#F04D46", "name":"Socialdemokratiet"},
@@ -44,7 +57,7 @@ let visDK = {
     "mark": "bar",
     "encoding": {
       "x": {"field": "a", "type": "ordinal", "title":"Partier", "sort": {"order": "descending", "op": "sum", "field": "s"}, "axis": {"labelAngle":0, "labelFontSize": 16,"labelPadding":10, "titleFontSize":24, "titlePadding":10 }},
-      "y": {"field": "b", "type": "quantitative", "title":"Stemmer", "axis": {"labelFontSize": 16,"labelPadding":10, "titleFontSize":24, "titlePadding":10}},
+      "y": {"field": "b", "type": "quantitative", "title":"Stemmer"},
       "tooltip": {"field": "name", "type": "ordinal"},
       "color": {
         "field": "color",

@@ -4,30 +4,41 @@
   <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-  <style>
-    body {
-      margin: 0px auto;
-      text-align: center;
-    }
-    .scrollbox {
-      margin:10px;
-      width: 100%;
-      text-align: center;
-    }
-  </style>
+  <link rel="stylesheet" href="css/main.css">
 </head>
 
 <body>
-  <h1>De ugyldige stemmer</h1>
-  <p>Hvert fjerde år eller deromkring stemmer vi om hvem der skal repræsentere os i folketinget.</p>
-  <p>Vi følger med stor interesse hvem der får flest stemmer, hvilke partier der får flertal og hvilke kandidater der
-    får flest personlige stemmer.</p>
-  <p>Vi følger med spænding eller ængstelighed med i hvilke partier der vinder og hvilke der taber, hvem der skal danne
-    regering og måske være statsminister</p>
-  <p>Ved folketingsvalget i 2019 var der 3569521 af Danmarks 4219537 stemmeberettigede der afgav deres stemme. Altså en
-    valgdeltagelse på 84,59 procent!</p>
-  
-    <div id="vis" style="width:880px;overflow:hidden;"></div>
+  <!--
+    TODO: Pick foto for headline
+  -->
+  <div id="header">
+    <h1>De ugyldige stemmer</h1>
+  </div>
+  <div id="wrap">
+    <div class="section full">
+      <p>Hvert fjerde år stemmer vi om hvem der skal repræsentere os i folketinget. I løbet af dagen gå vi til
+        valgsteder over hele landet og om aftenen følger vi med i hvilke partier der vinder og hvilke der taber, hvem
+        der skal danne regering og måske være statsminister -- og hvordan det går det parti eller den kandidat vi har
+        stemt på.</p>
+    </div>
+    <div class="section half">
+      <div id="partier" class="visualization"></div>
+    </div>
+    <div class="section half">
+      <p>Jeg siger <u>vi</u> fordi ved folketingsvalget i 2019 var der en valgdeltagelse på 84,59 procent! 3569521 ud af Danmarks 4219537 stemmeberettigede
+        afgav deres stemme.</p><p>Du kan se fordelingen af stemmerne i figuren til venste.</p>
+    </div>
+    <div class="section half">
+      
+    </div>
+    <div class="section half">
+      <p>Men, det er ikke alle stemmerne der bliver talt med. Eller rettere, en del af stemmerne bliver erklæret <i>ugyldige</i> i optællingen.</p>
+      <p>Som du kan se i figuren er det ikke en helt ubetydelig andel. Faktisk udgjorde de ugyldige stemmer hele 1 procent i 2019!</p>
+    </div>
+  </div>
+
+
+
   <!-- 
             VI kan beskrive valgdeltagelsen i tekst
 
@@ -47,9 +58,9 @@
 
   <script src="../analysis/vg-partier-ugyldige-dk-2019.js"></script>
   <script>
-    
-    
-    vegaEmbed('#vis', visDK, { "actions": false });
+
+
+    vegaEmbed('#partier', visDK, { "actions": false });
 
   </script>
 </body>
