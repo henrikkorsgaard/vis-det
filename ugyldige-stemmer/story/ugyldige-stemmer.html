@@ -35,8 +35,29 @@
       <p>Men, det er ikke alle stemmerne der bliver talt med. Eller rettere, en del af stemmerne bliver erklæret <i>ugyldige</i> i optællingen.</p>
       <p>Som du kan se i figuren er det ikke en helt ubetydelig andel. Faktisk udgjorde de ugyldige stemmer hele 1 procent i 2019!</p>
     </div>
+    <div class="section half">
+      <div id="fempartier" class="visualization"></div>
+    </div>
+    <div class="section half">
+      <p>De <i>ugyldige stemmer</i> slog både kategorien "Uden for parti" og Klaus Riskær.</p>
+    </div>
+    <div class="section half">
+      <div id="fempartier" class="visualization"></div>
+    </div>
+    <div class="section">
+        <h1>Hvad gør stemmer ugyldige?</h1>
+    </div>
+    <div class="section">
+      <!--Shankey diagram
+        almindelige stemmer -> partier
+                            -> ugyldige stemmer -> forskellige typer
+        brevstemmer         -> partier
+                            -> ugyldige stemmer -> forskellige typer
+      -->
+    </div>
   </div>
 
+    
 
 
   <!-- 
@@ -52,6 +73,13 @@
   <!--
             Fem partier kategorier der fik færrest stemmer og ugyldige stemmer
             data grundlag: https://www.statistikbanken.dk/20005
+
+         -->
+
+    <!--
+            IDE: Interaktiv visualisering med hvordan de ugyldige stemmer kunne ændre mandater med hele udregningen (kreds og tillægsmandater)
+            IDE: Personlige stemmer som interaktivt tilæg til de fem partier.
+
          -->
 
   <div id="filler" style="height: 500px;"></div>
@@ -60,7 +88,8 @@
   <script>
 
 
-    vegaEmbed('#partier', visDK, { "actions": false });
+    vegaEmbed('#partier', partierVisualisering, { "actions": false });
+    vegaEmbed('#fempartier', femVisualisering, { "actions": false });
 
   </script>
 </body>
